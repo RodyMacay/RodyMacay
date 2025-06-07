@@ -18,7 +18,6 @@
 
 ## 🚀 Sobre mí
 
-```javascript
 const rodyMacay = {
     nombre: "Rody Macay",
     ubicacion: "Flor de Bastión, Guayaquil 🇪🇨",
@@ -29,7 +28,7 @@ const rodyMacay = {
     motivacion: "Superar expectativas y lograr resultados excepcionales",
     telefono: "0981975806"
 };
-```
+
 
 Soy un estudiante apasionado por la tecnología, orientado a objetivos y comprometido con el logro de mis metas académicas y profesionales. Me enfoco en la mejora continua y la innovación, disfruto enfrentar desafíos y trabajar en proyectos que me permitan aplicar mis conocimientos y aprender nuevas tecnologías.
 
