@@ -18,18 +18,93 @@
 
 ## 🎯 Sobre mí
 
-**Estudiante de último semestre en Ingeniería de Software** en la Universidad Estatal de Milagro. Especializado en desarrollo full stack y arquitectura cloud, con experiencia práctica en AWS, Azure y Firebase. Orientado a resultados y comprometido con crear soluciones tecnológicas eficientes y escalables.
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="60%" style="vertical-align: top;">
+
+### 👨‍🎓 **Perfil Académico y Profesional**
+
+🎓 **Estudiante de último semestre** en **Ingeniería de Software** en la Universidad Estatal de Milagro
+
+💻 **Especializado en:**
+- Desarrollo Full Stack (Frontend + Backend)
+- Arquitectura de servicios en la nube
+- Diseño de APIs RESTful escalables
+
+☁️ **Experiencia práctica** con AWS, Azure y Firebase
+
+🎯 **Enfoque:** Crear soluciones tecnológicas eficientes, escalables y orientadas a resultados
+
+</td>
+<td width="40%" style="vertical-align: top;">
+
+### 📊 **Estado Actual**
+
+![Semestre](https://img.shields.io/badge/Semestre-Último-success?style=flat-square&logo=graduation-cap)
+![Graduación](https://img.shields.io/badge/Graduación-2025-blue?style=flat-square&logo=calendar)
+![Disponibilidad](https://img.shields.io/badge/Disponibilidad-Inmediata-brightgreen?style=flat-square&logo=check-circle)
+
+### 🌱 **Actualmente**
+- 📚 Culminando proyecto de tesis
+- 🔬 Profundizando en microservicios
+- 🚀 Explorando DevOps avanzado
+- 💼 Buscando oportunidades laborales
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 💻 **Mi Stack como Desarrollador**
 
 ```javascript
-const developer = {
-    name: "Rody Macay",
-    location: "Guayaquil, Ecuador 🇪🇨",
-    education: "Ingeniería en Software - Último Semestre",
-    focus: ["Full Stack Development", "Cloud Architecture", "RESTful APIs"],
-    currentlyLearning: "Microservicios y DevOps avanzado",
-    availableFor: "Oportunidades laborales y proyectos colaborativos"
-};
+class RodyMacayDeveloper {
+    constructor() {
+        this.name = "Rody Macay";
+        this.location = "Guayaquil, Ecuador 🇪🇨";
+        this.education = "Ingeniería en Software - Último Semestre";
+        this.university = "Universidad Estatal de Milagro";
+        
+        this.skills = {
+            frontend: ["React", "Next.js", "TypeScript", "HTML5", "CSS3"],
+            backend: ["Node.js", "NestJS", "Django", "Express", "Python"],
+            databases: ["PostgreSQL", "MySQL", "MongoDB"],
+            cloud: ["AWS", "Azure", "Firebase"],
+            tools: ["Docker", "Git", "TypeORM", "Prisma"]
+        };
+        
+        this.currentFocus = [
+            "🔧 Arquitectura de microservicios",
+            "☁️ DevOps y automatización",
+            "📈 Escalabilidad de aplicaciones"
+        ];
+        
+        this.goals2025 = [
+            "🎓 Graduarme con excelencia",
+            "💼 Conseguir mi primer empleo tech",
+            "🚀 Desarrollar proyectos impactantes"
+        ];
+    }
+    
+    getAvailability() {
+        return "✅ Disponible para oportunidades laborales y proyectos colaborativos";
+    }
+    
+    sayHello() {
+        return "¡Hola! Estoy emocionado de contribuir a tu equipo 🚀";
+    }
+}
+
+const rody = new RodyMacayDeveloper();
+console.log(rody.sayHello());
 ```
+
+</div>
 
 ---
 
